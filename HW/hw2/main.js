@@ -11,4 +11,4 @@ console.log(arr[6]);
 console.log(arr[7]);
 console.log(arr[8]);
 console.log(arr[9]);
-console.log(arr[10]);
+console.log(arr.length);
