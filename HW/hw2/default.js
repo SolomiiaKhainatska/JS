@@ -1,9 +1,6 @@
-switch (x) {
-    case null:
-    case undefined:
-    case 0:
-    case '':
-        console.log('');
-    default:
-        console.log('');
+let x = 0;
+if (x !== 0) {
+    console.log('good')
+} else {
+    console.log('dsgfhjdfghjfg')
 }
